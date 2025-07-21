@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Business Is Good Chatbot</title>
+</head>
+<body>
+  <h1>Welcome to Business Is Good</h1>
+
+  <script async
+    src="https://zhxpbomquysq34ykcsmc5tys.agents.do-ai.run/static/chatbot/widget.js"
+    data-agent-id="19f85b76-6654-11f0-bf8f-4e013e2ddde4"
+    data-chatbot-id="M8ngYSq7fooyGUP261ffd-QpXm6vzKS7"
+    data-name="Business Is Good Mentor Chatbot"
+    data-primary-color="#031B4E"
+    data-secondary-color="#E5E8ED"
+    data-button-background-color="#0061EB"
+    data-starting-message="Hey there 👋 Welcome to Business Is Good! Where doing the right thing is the business model."
+    data-logo="/static/chatbot/icons/default-agent.svg">
+  </script>
+
+</body>
+</html>
